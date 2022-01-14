@@ -4,4 +4,4 @@ test3
 
 test4 after install git graph
 
-hello!!
+hello!! git!!
